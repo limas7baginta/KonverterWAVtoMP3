@@ -1,0 +1,18 @@
+D:\Tutorials\WAVEform\WAVEform\bin\Debug\WAVEform.exe
+D:\Tutorials\WAVEform\WAVEform\bin\Debug\WAVEform.pdb
+D:\Tutorials\WAVEform\WAVEform\bin\Debug\NAudio.dll
+D:\Tutorials\WAVEform\WAVEform\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tutorials\WAVEform\WAVEform\obj\x86\Debug\WAVEform.Form1.resources
+D:\Tutorials\WAVEform\WAVEform\obj\x86\Debug\WAVEform.Properties.Resources.resources
+D:\Tutorials\WAVEform\WAVEform\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Tutorials\WAVEform\WAVEform\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Tutorials\WAVEform\WAVEform\obj\x86\Debug\WAVEform.exe
+D:\Tutorials\WAVEform\WAVEform\obj\x86\Debug\WAVEform.pdb
+C:\Users\Limas Baginta\Desktop\pemrosesan\Workshop1\WAVEform\WAVEform\WAVEform\obj\x86\Debug\WAVEform.pdb
+C:\Users\Limas Baginta\Desktop\pemrosesan\Workshop1\WAVEform\WAVEform\WAVEform\bin\Debug\WAVEform.exe
+C:\Users\Limas Baginta\Desktop\pemrosesan\Workshop1\WAVEform\WAVEform\WAVEform\bin\Debug\WAVEform.pdb
+C:\Users\Limas Baginta\Desktop\pemrosesan\Workshop1\WAVEform\WAVEform\WAVEform\obj\x86\Debug\WAVEform.csprojResolveAssemblyReference.cache
+C:\Users\Limas Baginta\Desktop\pemrosesan\Workshop1\WAVEform\WAVEform\WAVEform\obj\x86\Debug\WAVEform.Form1.resources
+C:\Users\Limas Baginta\Desktop\pemrosesan\Workshop1\WAVEform\WAVEform\WAVEform\obj\x86\Debug\WAVEform.Properties.Resources.resources
+C:\Users\Limas Baginta\Desktop\pemrosesan\Workshop1\WAVEform\WAVEform\WAVEform\obj\x86\Debug\WAVEform.csproj.GenerateResource.Cache
+C:\Users\Limas Baginta\Desktop\pemrosesan\Workshop1\WAVEform\WAVEform\WAVEform\obj\x86\Debug\WAVEform.exe
